@@ -209,3 +209,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
